@@ -10,6 +10,13 @@ License
 GPLv2 (or later)
 
 
+
 Credits
 -------
 * Extracted from WordPress by Sergey Pozhilov - http://pozhilov.com
+
+
+
+Tips
+-------
+A nice wp-admin markup cheat-sheet (plugin) can be found at https://github.com/bueltge/WordPress-Admin-Style
